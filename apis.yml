@@ -1,119 +1,21 @@
-name: Wynsure APIs
-description: API collection for Wynsure insurance platform services
-url: https://www.wynsure.com
-created: 2024-01-01 00:00:00+00:00
-modified: 2024-01-01 00:00:00+00:00
-apis:
-- name: Wynsure Policy Management API
-  description: API for managing insurance policies, including creation, updates, and retrieval of policy information
-  image: https://www.wynsure.com/images/policy-api.png
-  humanURL: https://www.wynsure.com/products/policy-management
-  baseURL: https://api.wynsure.com/v1/policy
-  tags:
-  - Insurance
-  - Policy
-  - Management
-  properties:
-  - type: Documentation
-    url: https://docs.wynsure.com/api/policy
-  - type: OpenAPI
-    url: https://api.wynsure.com/v1/policy/openapi.json
-  - type: Authentication
-    url: https://docs.wynsure.com/api/authentication
-  contact:
-  - FN: Wynsure API Support
-    email: api-support@wynsure.com
-    url: https://support.wynsure.com
-- name: Wynsure Claims API
-  description: API for processing and managing insurance claims throughout their lifecycle
-  image: https://www.wynsure.com/images/claims-api.png
-  humanURL: https://www.wynsure.com/products/claims-management
-  baseURL: https://api.wynsure.com/v1/claims
-  tags:
-  - Insurance
-  - Claims
-  - Processing
-  properties:
-  - type: Documentation
-    url: https://docs.wynsure.com/api/claims
-  - type: OpenAPI
-    url: https://api.wynsure.com/v1/claims/openapi.json
-  - type: Authentication
-    url: https://docs.wynsure.com/api/authentication
-  contact:
-  - FN: Wynsure API Support
-    email: api-support@wynsure.com
-    url: https://support.wynsure.com
-- name: Wynsure Billing API
-  description: API for managing billing operations, invoices, payments, and premium calculations
-  image: https://www.wynsure.com/images/billing-api.png
-  humanURL: https://www.wynsure.com/products/billing
-  baseURL: https://api.wynsure.com/v1/billing
-  tags:
-  - Insurance
-  - Billing
-  - Payments
-  - Premium
-  properties:
-  - type: Documentation
-    url: https://docs.wynsure.com/api/billing
-  - type: OpenAPI
-    url: https://api.wynsure.com/v1/billing/openapi.json
-  - type: Authentication
-    url: https://docs.wynsure.com/api/authentication
-  contact:
-  - FN: Wynsure API Support
-    email: api-support@wynsure.com
-    url: https://support.wynsure.com
-- name: Wynsure Customer API
-  description: API for managing customer information, profiles, and relationships
-  image: https://www.wynsure.com/images/customer-api.png
-  humanURL: https://www.wynsure.com/products/customer-management
-  baseURL: https://api.wynsure.com/v1/customer
-  tags:
-  - Insurance
-  - Customer
-  - CRM
-  properties:
-  - type: Documentation
-    url: https://docs.wynsure.com/api/customer
-  - type: OpenAPI
-    url: https://api.wynsure.com/v1/customer/openapi.json
-  - type: Authentication
-    url: https://docs.wynsure.com/api/authentication
-  contact:
-  - FN: Wynsure API Support
-    email: api-support@wynsure.com
-    url: https://support.wynsure.com
-- name: Wynsure Underwriting API
-  description: API for underwriting processes, risk assessment, and quote generation
-  image: https://www.wynsure.com/images/underwriting-api.png
-  humanURL: https://www.wynsure.com/products/underwriting
-  baseURL: https://api.wynsure.com/v1/underwriting
-  tags:
-  - Insurance
-  - Underwriting
-  - Risk Assessment
-  - Quotes
-  properties:
-  - type: Documentation
-    url: https://docs.wynsure.com/api/underwriting
-  - type: OpenAPI
-    url: https://api.wynsure.com/v1/underwriting/openapi.json
-  - type: Authentication
-    url: https://docs.wynsure.com/api/authentication
-  contact:
-  - FN: Wynsure API Support
-    email: api-support@wynsure.com
-    url: https://support.wynsure.com
-maintainers:
-- FN: Wynsure Development Team
-  email: developers@wynsure.com
-  url: https://www.wynsure.com/about/team
+aid: wynsure
+name: Wynsure
+description: >-
+  Wynsure is an insurance platform and software solution for policy management,
+  claims, billing, and underwriting. No publicly accessible developer portal
+  or documented API has been confirmed for this provider.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-- Insurance
-- InsurTech
-- Policy Management
-- Claims
-- Billing
-- APIs
+  - Insurance
+  - InsurTech
+  - Policy Management
+created: '2024-01-01'
+modified: '2026-03-16'
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/wynsure/refs/heads/main/apis.yml
+specificationVersion: '0.19'
+apis: []
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
