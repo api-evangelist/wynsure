@@ -12,7 +12,7 @@ description: >-
   Service Bus (ESB) as part of the Wynsure as a Service (WaaS) offering for
   integration with third-party systems.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - Insurance
   - InsurTech
@@ -45,7 +45,7 @@ apis:
       of the Wynsure as a Service (WaaS) offering with an integration-ready
       Talend Enterprise Service Bus (ESB) for connecting to internal systems
       and third-party insurance applications.
-    image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     humanURL: https://www.wyde.com/en/home/products/wynsure.html
     baseURL: https://api.wyde.com
     tags:
@@ -75,7 +75,7 @@ apis:
       billing, claims, commissions, and enrollment functions for system
       integrators connecting Wynsure with broker portals, payment processors,
       medical data providers (APS, Labs, MIB), and other downstream systems.
-    image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     humanURL: https://www.wyde.com/en/home/products/wynsure-as-a-service.html
     baseURL: https://api.wyde.com
     tags:
@@ -102,7 +102,7 @@ apis:
       responses and Underwriter Assist (UW Assist), a contextual conversation
       bot that augments underwriter productivity with risk-centric workflows
       and integrations to medical data sources (APS, Labs, MIB).
-    image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     humanURL: https://www.wyde.com/en/home/solutions/wynsure-smart-underwriting-platform.html
     baseURL: https://api.wyde.com
     tags:
@@ -126,7 +126,7 @@ apis:
       reconciliation, commission processing, payment processing, lapsing and
       cancellation, and billing-related customer service. Modular by design so
       carriers can adopt only the capabilities that fit their business needs.
-    image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     humanURL: https://www.wyde.com/en/home/solutions/wynsure-billing.html
     baseURL: https://api.wyde.com
     tags:
@@ -150,7 +150,7 @@ apis:
       external data sources, supports electronic document intake and
       distribution, and surfaces actionable analytics to enrollment operations
       managers, brokers, benefit administrators, and individual members.
-    image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     humanURL: https://www.wyde.com/en/home/solutions/wynsure-enrollment-acceleration.html
     baseURL: https://api.wyde.com
     tags:
@@ -174,7 +174,7 @@ apis:
       Front Office suite, providing 360-degree customer views, broker
       distribution support, and sales analytics for group and individual
       insurance carriers.
-    image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     humanURL: https://www.wyde.com/en/home/solutions/wynsure-sales-and-broker-management.html
     baseURL: https://api.wyde.com
     tags:
