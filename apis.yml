@@ -190,6 +190,10 @@ apis:
       - type: Support
         url: https://www.wyde.com/en/home/contact-us.html
 common:
+  - type: VulnerabilityDisclosure
+    url: security/wynsure-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/wynsure-domain-security.yml
   - type: Website
     url: https://www.wyde.com
   - type: Documentation
