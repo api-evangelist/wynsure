@@ -27,6 +27,22 @@ accessModel:
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/wynsure.png
 tags:
   - Insurance
+  - Insurtech
+  - Policy Administration
+  - Claims Management
+  - Billing
+  - Underwriting
+  - Enrollment
+  - Life Insurance
+  - Annuities
+  - Health Insurance
+  - Disability Insurance
+  - Group Benefits
+  - Voluntary Benefits
+  - Brokers
+  - Financial-Services
+tags_raw:
+  - Insurance
   - InsurTech
   - Policy Administration
   - Claims Management
