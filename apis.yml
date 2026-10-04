@@ -51,7 +51,7 @@ tags:
   - Group Benefits
   - Voluntary Benefits
   - Brokers
-  - Financial-Services
+  - Financial Services
 tags_raw:
   - Insurance
   - InsurTech
@@ -68,6 +68,7 @@ tags_raw:
   - Voluntary Benefits
   - Brokers
   - Financial Services
+  - Financial-Services
 created: '2024-01-01'
 modified: '2026-05-03'
 url: >-
@@ -145,6 +146,12 @@ apis:
     humanURL: https://www.wyde.com/en/home/solutions/wynsure-smart-underwriting-platform.html
     baseURL: https://api.wyde.com
     tags:
+      - Underwriting
+      - Generative AI
+      - Risk Management
+      - Group Insurance
+      - Insurance
+    tags_raw:
       - Underwriting
       - Generative AI
       - Risk
