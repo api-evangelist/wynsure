@@ -50,7 +50,7 @@ tags:
   - Disability Insurance
   - Group Benefits
   - Voluntary Benefits
-  - Brokers
+  - Brokerage
   - Financial Services
 tags_raw:
   - Insurance
@@ -201,6 +201,13 @@ apis:
     baseURL: https://api.wyde.com
     tags:
       - Enrollment
+      - Brokerage
+      - Employers
+      - Members
+      - Group Benefits
+      - Insurance
+    tags_raw:
+      - Enrollment
       - Brokers
       - Employers
       - Members
@@ -224,6 +231,12 @@ apis:
     humanURL: https://www.wyde.com/en/home/solutions/wynsure-sales-and-broker-management.html
     baseURL: https://api.wyde.com
     tags:
+      - Sales
+      - Brokerage
+      - Distribution
+      - CRM
+      - Insurance
+    tags_raw:
       - Sales
       - Brokers
       - Distribution
