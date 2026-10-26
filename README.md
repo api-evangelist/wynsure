@@ -1,0 +1,237 @@
+# Wynsure (wynsure)
+
+<!-- API-EVANGELIST-PROVENANCE:BEGIN -->
+> ### About this repository
+>
+> **This is not our API.** This repository is an independent, third-party profile of a company's
+> **publicly available** API surface, maintained by [API Evangelist](https://apievangelist.com).
+> API Evangelist does not operate, host, resell, or support this company's APIs, and is not
+> affiliated with or endorsed by the company unless stated on the profile.
+>
+> **Where the information came from.** Everything here is assembled from material a member of the
+> public can reach with a browser and no credentials — the company's own website, developer portal
+> and documentation, the specifications it publishes for public use (OpenAPI, AsyncAPI, JSON Schema,
+> `apis.json`, `llms.txt` and similar), its public repositories, and its public status, pricing and
+> changelog pages. **Nothing here is obtained by breaching a system, defeating an access control, or
+> using credentials of any kind.**
+>
+> **The rating is an independent assessment.** The Kin Score and Agent Readiness rating are
+> independently calculated scores of a company's *public* API artifacts, produced by API Evangelist
+> against a published rubric. They are not certifications, endorsements, security assessments, or
+> audits, and they score published artifacts — not the quality, safety, or security of the software.
+>
+> **Corrections, re-scores, and removal are free.** No partnership, contract, or purchase is
+> required, and you do not need to justify the request.
+>
+> - **Something wrong?** Open an issue on this repository, or email
+>   [info@apievangelist.com](mailto:info@apievangelist.com).
+> - **Published something new?** Ask for a re-score and we will re-run the rating.
+> - **Want the listing taken down?** Say so and we will honor it. The profile is reduced to your
+>   company name, a factual description, and a link to your own site, and the company is recorded as
+>   **unrated** — never scored zero for having asked.
+>
+> **Response times.** Acknowledgement within **one business day**; removal or restriction within
+> **two business days**; corrections and re-scores within **five business days**.
+>
+> **Not from the company, and here with a question?** You are welcome here — we would rather be the
+> front line and point you the right way than have a good report go nowhere. What this repository
+> can answer is narrow, though, so it is worth knowing who you are actually looking for:
+>
+> - **A question about how the API works, an account, billing, or a bug in the service** — that is
+>   the company's own support, not us. We profile this API; we do not operate it and cannot see
+>   your account.
+> - **A bug in an open-source project we only catalog** — file it on that project's own repository.
+>   This has happened with a real and correct bug report that reached us instead of the people who
+>   could fix it, which helped nobody.
+> - **Anything about this listing itself** — the description, the tags, the rating, a missing or
+>   wrong artifact — is ours. Open an issue here.
+> - **Not sure, or something general about API Evangelist or APIs.io** — open an issue on the
+>   [APIs.io Inbox](https://github.com/api-search/inbox) and we will route it.
+>
+> **This repository contains no software, and we will never ask you to download anything.** There is
+> no build, release, installer, or binary here — only text and machine-readable API descriptions, so
+> there is nothing here that can be "corrupt" or need "repairing". Any issue, comment, or email
+> claiming otherwise and offering a download link is not from us and is hostile. Do not follow the
+> link; it is a lure. Report it to GitHub and, if you like, tell us at
+> [info@apievangelist.com](mailto:info@apievangelist.com) so we can take it down.
+>
+> **On a security or compliance team?** Email
+> [info@apievangelist.com](mailto:info@apievangelist.com) with *security* in the subject line and
+> you will get a person, not a form. We will tell you exactly which public URLs this profile was
+> built from so your team can see the same surface we did, and we will take the listing down on
+> request while you work through it.
+>
+> Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
+<!-- API-EVANGELIST-PROVENANCE:END -->
+
+Wynsure is an end-to-end insurance policy administration platform from Mphasis Wyde that delivers Quote-to-Claims capabilities across Group, Individual, Life, Annuities, Health, Disability, Accident, Dental, and Vision lines. The multi-language, multi-currency platform combines policy administration, underwriting, billing, claims, enrollment, broker distribution, and analytics with AI-powered modules such as the Wynsure Smart Underwriting Platform (WSUP), Underwriter Assist, and Intelligent Document Processing. Wynsure exposes RESTful APIs and SOA web services through a bundled Talend Enterprise Service Bus (ESB) as part of the Wynsure as a Service (WaaS) offering for integration with third-party systems.
+
+**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/wynsure/refs/heads/main/apis.yml)
+
+**Run:** [Capabilities Using Naftiko](https://github.com/naftiko/fleet?utm_source=api-evangelist&utm_medium=readme&utm_campaign=company-api-evangelist&utm_content=repo)
+
+## Tags:
+
+ - Insurance, InsurTech, Policy Administration, Claims Management, Billing, Underwriting, Enrollment, Life Insurance, Annuities, Health Insurance, Disability Insurance, Group Benefits, Voluntary Benefits, Brokers, Financial Services
+
+## Timestamps
+
+- **Created:** 2024-01-01
+- **Modified:** 2026-05-03
+
+## APIs
+
+### Wynsure REST API
+RESTful API exposing Wynsure's core insurance platform capabilities for integration with third-party systems. Provides programmatic access to policy administration, underwriting, billing, claims, and enrollment workflows across Wynsure's Quote-to-Claims value chain. Bundled as part of the Wynsure as a Service (WaaS) offering with an integration-ready Talend Enterprise Service Bus (ESB) for connecting to internal systems and third-party insurance applications.
+
+**Human URL:** [https://www.wyde.com/en/home/products/wynsure.html](https://www.wyde.com/en/home/products/wynsure.html)
+
+#### Tags:
+
+ - Policy Administration, Underwriting, Claims, Billing, Enrollment, Insurance, REST
+
+#### Properties
+
+- [Documentation](https://www.wyde.com/en/home/products/wynsure.html)
+- [APIReference](https://www.wyde.com/en/home/products/wynsure.html)
+- [Portal](https://www.wyde.com/en/home/products/wynsure-as-a-service.html)
+
+### Wynsure Web Services
+Service-Oriented Architecture (SOA) web services exposed by Wynsure for end-to-end insurance integration. Delivered through the bundled Talend Enterprise Service Bus (ESB), the web services provide access to policy, billing, claims, commissions, and enrollment functions for system integrators connecting Wynsure with broker portals, payment processors, medical data providers (APS, Labs, MIB), and other downstream systems.
+
+**Human URL:** [https://www.wyde.com/en/home/products/wynsure-as-a-service.html](https://www.wyde.com/en/home/products/wynsure-as-a-service.html)
+
+#### Tags:
+
+ - Web Services, SOA, Integration, Insurance, ESB
+
+#### Properties
+
+- [Documentation](https://www.wyde.com/en/home/products/wynsure-as-a-service.html)
+- [Integrations](https://www.wyde.com/en/home/products/wynsure-as-a-service.html)
+
+### Wynsure Smart Underwriting Platform API
+API surface for the Wynsure Smart Underwriting Platform (WSUP), a Generative AI-powered underwriting solution that connects employers, employees, brokers, carriers, and affinity partners across the group insurance value chain. Includes RFP Assist for streamlining group RFP responses and Underwriter Assist (UW Assist), a contextual conversation bot that augments underwriter productivity with risk-centric workflows and integrations to medical data sources (APS, Labs, MIB).
+
+**Human URL:** [https://www.wyde.com/en/home/solutions/wynsure-smart-underwriting-platform.html](https://www.wyde.com/en/home/solutions/wynsure-smart-underwriting-platform.html)
+
+#### Tags:
+
+ - Underwriting, Generative AI, Risk, Group Insurance, Insurance
+
+#### Properties
+
+- [Documentation](https://www.wyde.com/en/home/solutions/wynsure-smart-underwriting-platform.html)
+
+### Wynsure Billing API
+API capabilities of the Wynsure Billing solution covering the entire billing process for individual and group insurance carriers, including invoice creation and delivery, consolidated billing, automated reconciliation, commission processing, payment processing, lapsing and cancellation, and billing-related customer service. Modular by design so carriers can adopt only the capabilities that fit their business needs.
+
+**Human URL:** [https://www.wyde.com/en/home/solutions/wynsure-billing.html](https://www.wyde.com/en/home/solutions/wynsure-billing.html)
+
+#### Tags:
+
+ - Billing, Payments, Commissions, Reconciliation, Insurance
+
+#### Properties
+
+- [Documentation](https://www.wyde.com/en/home/solutions/wynsure-billing.html)
+
+### Wynsure Enrollment Acceleration API
+Data-driven and intelligent front-office enrollment API for carriers, brokers, employers, and members. Wynsure Enrollment Acceleration ingests enrollment data from multiple enrollment platforms and other internal and external data sources, supports electronic document intake and distribution, and surfaces actionable analytics to enrollment operations managers, brokers, benefit administrators, and individual members.
+
+**Human URL:** [https://www.wyde.com/en/home/solutions/wynsure-enrollment-acceleration.html](https://www.wyde.com/en/home/solutions/wynsure-enrollment-acceleration.html)
+
+#### Tags:
+
+ - Enrollment, Brokers, Employers, Members, Group Benefits, Insurance
+
+#### Properties
+
+- [Documentation](https://www.wyde.com/en/home/solutions/wynsure-enrollment-acceleration.html)
+
+### Wynsure Sales and Broker Management API
+Front-office sales management API focused on monitoring and visualizing insurance sales performance for brokers and agents. Part of the Wynsure Front Office suite, providing 360-degree customer views, broker distribution support, and sales analytics for group and individual insurance carriers.
+
+**Human URL:** [https://www.wyde.com/en/home/solutions/wynsure-sales-and-broker-management.html](https://www.wyde.com/en/home/solutions/wynsure-sales-and-broker-management.html)
+
+#### Tags:
+
+ - Sales, Brokers, Distribution, CRM, Insurance
+
+#### Properties
+
+- [Documentation](https://www.wyde.com/en/home/solutions/wynsure-sales-and-broker-management.html)
+
+## Common Properties
+
+- [Website](https://www.wyde.com)
+- [Documentation](https://www.wyde.com/en/home/products/wynsure.html)
+- [Portal](https://www.wyde.com/en/home/products/wynsure-as-a-service.html)
+- [Support](https://support.eldocomp.com)
+- [Contact](https://www.wyde.com/en/home/contact-us.html)
+- [Partners](https://www.wyde.com/en/home/partners.html)
+- [TermsOfService](https://www.mphasis.com/home/terms-of-Use.html)
+- [PrivacyPolicy](https://www.wyde.com/en/home/privacy.html)
+- [LinkedIn](https://www.linkedin.com/company/mphasiswyde)
+- [GitHubOrganization](https://github.com/wynsure)
+
+## Features
+
+| Name | Description |
+|------|-------------|
+| Speed to Market with MVP | Accelerated speed-to-market through a Minimum Viable Product approach that lets carriers launch new insurance products quickly. |
+| Persona-based Digital Experience | Enhanced persona-based digital experiences for carriers, brokers, employers, and members across web and mobile channels. |
+| Rapid Product Configuration | Product Factory module supports multi-product configuration across Group, Individual, Life, Annuities, Health, Disability, Accident, Dental, and Vision lines. |
+| End-to-End Quote-to-Claims Lifecycle | Single platform covering the complete insurance functional value chain from quote and enrollment to billing, servicing, and claims. |
+| Intelligent Document Processing | AI- and OCR-powered Intelligent Document Processing (IDP) for automated extraction and classification of insurance documents. |
+| Generative AI Underwriter Assist | Gen AI-enabled Underwriter Assist contextual conversation bot that augments underwriter productivity with risk-centric workflows. |
+| Multi-language and Multi-currency | Multi-language and multi-currency support for global insurance carriers operating across multiple regions and regulatory regimes. |
+| Service-Oriented Architecture | SOA-based architecture with bundled Talend Enterprise Service Bus accelerates system integration and reduces overall implementation time. |
+| Flexible Deployment | Available on-premise, hosted, and as Wynsure as a Service (WaaS) on a scalable private-cloud infrastructure. |
+| Operational Data Store and Analytics | Integrated operational data store with business intelligence and analytics, including GDPR compliance support. |
+
+## Use Cases
+
+| Name | Description |
+|------|-------------|
+| Group Benefits Administration | Administer group and worksite life, disability, accident, dental, and vision insurance for group carriers such as AIG Benefit Solutions and Aflac. |
+| Individual Life and Annuity | End-to-end policy administration, billing, and claims for individual life and annuity carriers across multiple jurisdictions. |
+| Voluntary Benefits Enrollment | Streamline voluntary benefits enrollment through self-service portals for brokers, employers, and members. |
+| Smart Group Underwriting | AI-powered group underwriting with RFP Assist and Underwriter Assist to accelerate quote turnaround and improve risk decisions. |
+| Consolidated Billing and Reconciliation | Consolidated multi-product billing with automated reconciliation, commission processing, and AI chatbots for billing customer service. |
+| Claims Processing with Medical Oversight | End-to-end claims management for life and health products with integrated medical oversight workflows. |
+| Broker and Agent Distribution | Sales management and 360-degree customer view for broker and agent distribution channels. |
+| Cloud-Based Policy Administration | Wynsure as a Service (WaaS) delivers policy administration on a scalable private-cloud environment for carriers seeking SaaS deployment. |
+
+## Integrations
+
+| Name | Description |
+|------|-------------|
+| Talend Enterprise Service Bus | Bundled Talend ESB exposes Wynsure RESTful APIs and SOA web services to internal systems and third-party insurance applications. |
+| Medical Data Providers | Underwriting integrations with Attending Physician Statements (APS), Labs, and the Medical Information Bureau (MIB) for risk evaluation. |
+| Third-Party Quote and Sales Apps | APIs to support third-party quote and sales applications integrating with Wynsure's policy administration platform. |
+| Third-Party Claims Apps | APIs to support third-party claims applications integrating with Wynsure's claims processing module. |
+| Enrollment Platforms | Wynsure Enrollment Acceleration ingests enrollment data from external enrollment platforms used by brokers and benefit administrators. |
+| Mphasis Cloud and Data Services | Integration with broader Mphasis offerings including cloud services, data analytics, and business process services. |
+| Payment Processing | Wynsure Billing integrates with payment processors for premium collection, lapsing/cancellation, and reconciliation workflows. |
+
+## Solutions
+
+| Name | Description |
+|------|-------------|
+| Wynsure as a Service (WaaS) | Cloud-based Wynsure offering providing policy administration on a scalable private-cloud environment with bundled ESB integration. |
+| Wynsure Smart Underwriting Platform | Generative AI-powered underwriting platform connecting employers, employees, brokers, carriers, and affinity partners. |
+| Wynsure Billing | State-of-the-art billing solution covering invoicing, commissions, payments, lapsing, and customer service for individual and group carriers. |
+| Wynsure Enrollment Acceleration | Front-office enrollment solution that streamlines broker, employer, and member enrollment through analytics and self-service. |
+| Wynsure Sales and Broker Management | Sales management tool for monitoring and visualizing insurance sales performance across broker and agent distribution channels. |
+| Wynsure Medical Underwriting | New business and underwriting solution with straight-through processing and integrations to medical data sources. |
+| Wynsure Group Member Portal | Enrollment portal with self-service capabilities, electronic document intake and distribution, and dashboard data visualization for brokers, employers, and members. |
+| Wynsure Front Office | Front-office suite combining broker distribution, sales management, and 360-degree customer view for carrier sales operations. |
+| Wynsure Claims | End-to-end claims management module covering life, health, disability, accident, dental, and vision claims with medical oversight. |
+| Wynsure Data Analytics | Integrated operational data store and business intelligence module with GDPR compliance support. |
+
+## Maintainers
+
+**FN:** Kin Lane
+
+**Email:** kin@apievangelist.com
